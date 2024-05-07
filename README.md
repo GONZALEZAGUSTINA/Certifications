@@ -4,10 +4,15 @@ Este repositorio contiene los diplomas de los cursos completados por Agustina Ta
 
 ## Lista de Diplomas
 
-- [Liderazgo para Equipos de Trabajo](https://platzi.com/p/agustinagonzalez8832/curso/1300-course/diploma/detalle/)
-- [Motivación para Equipos de Trabajo](https://platzi.com/p/agustinagonzalez8832/curso/1896-motivacion/diploma/detalle/) 
-- [Habilidades Blandas para el Desarrollo profesional](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
-- [Profesional de Scrum](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
+#### Liderazgo
+
+  - [Liderazgo para Equipos de Trabajo](https://platzi.com/p/agustinagonzalez8832/curso/1300-course/diploma/detalle/)
+  - [Motivación para Equipos de Trabajo](https://platzi.com/p/agustinagonzalez8832/curso/1896-motivacion/diploma/detalle/) 
+  - [Habilidades Blandas para el Desarrollo profesional](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
+  
+#### Metodologías Ágiles
+
+  - [Profesional de Scrum](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
   
 ## Contacto
 
