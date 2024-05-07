@@ -11,7 +11,7 @@ Este repositorio contiene los diplomas de los cursos completados por Agustina Ta
   - [Habilidades Blandas para el Desarrollo profesional](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
   
 #### Metodologías Ágiles
-
+  ###### Scrum Fundacional
   - [Profesional de Scrum](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
   
 ## Contacto
