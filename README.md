@@ -12,7 +12,11 @@ Este repositorio contiene los diplomas de los cursos completados por Agustina Ta
   
 #### Metodologías Ágiles
   ###### Scrum Fundacional
-  - [Profesional de Scrum](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/) 
+  - [Profesional de Scrum](https://platzi.com/p/agustinagonzalez8832/curso/6570-habilidades-blandas/diploma/detalle/)
+  - [Curso de Scrum Master](https://platzi.com/p/agustinagonzalez8832/curso/4129-scrum-master/diploma/detalle/)
+  - [Curso de Historias de Usuario en Scrum] ()
+  - [Curso de Fundamentos de Product Owner] ()
+  - [Curso de Gestión de Equipos Ágiles] ()
   
 ## Contacto
 
