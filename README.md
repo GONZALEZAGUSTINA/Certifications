@@ -17,18 +17,8 @@ Este repositorio contiene los diplomas de los cursos completados por Agustina Ta
 
 ## Metodologías Ágiles
   #### Scrum Funcional
-   - [Profesional de Scrum](https://platzi.com/p/agustinagonzalez8832/curso/1750-scrum/diploma/detalle/)
-   - [Curso de Scrum Master](https://platzi.com/p/agustinagonzalez8832/curso/4129-scrum-master/diploma/detalle/)
-   - [Curso de Historias de Usuario en Scrum](https://platzi.com/p/agustinagonzalez8832/curso/2616-historias-usuario-scrum/diploma/detalle/)
    - [Curso de Gestión de Equipos Ágiles](https://platzi.com/p/agustinagonzalez8832/curso/4128-equipos-agiles/diploma/detalle/)
    - [Curso de Fundamentos de Product Owner](https://platzi.com/p/agustinagonzalez8832/curso/2618-product-owner/diploma/detalle/)
-
- 
-
-  #### Herramientas de Gestión Agile
-   - [Curso de Trello]()
-   - [Curso de Notion]()
-   - [Curso de Slack para mejorar tu Comunicación Online]()
 
   
 ¡Gracias por visitar!
